@@ -6,10 +6,10 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
+        name: 'Blockchain Site',
+        description: "I am a tech enthusiast experienced in blockchain and NFT projects, with proficiency in Rust for smart contracts on Near Protocol, React for front-end development, and Node.js for back-end systems. I have successfully launched NFT marketplaces on Binance and Solana, developed Play2Earn games on Ethereum, and implemented LP tracking on Solana. Additionally, I have expertise in building ICO launchpads, NFT raffle platforms, and fighting games using technologies like PhaserJS and PlanckJS. My work also includes creating image generation systems and reviewing projects like DojoWallet for Ethereum, Solana, and Near ecosystems. Last project: https://www.stakease.co, https://www.injstaking.io",
+        tools: ['Web3','Blockchain','NFT','Smart contracts','React','Ethereume','Express', 'MongoDB', 'OpenAI API','Rust','Solidity','Solana','Injective','Near'],
+        role: 'Blockchain Developer',
         code: '',
         demo: '',
         image: crefin,
